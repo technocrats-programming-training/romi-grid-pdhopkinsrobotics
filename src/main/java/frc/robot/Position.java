@@ -66,7 +66,10 @@ public class Position {
     }
 
     public void returnToHome() {
-
+    //figure out position
+    //resolve x
+    //resolve y
+      
     }
 
     public String toString() {
